@@ -1,0 +1,7 @@
+# Ignorer le dataset lourd
+sensor.csv
+
+# Ignorer les dossiers Colab par défaut
+.config/
+sample_data/
+__pycache__/
